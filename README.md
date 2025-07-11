@@ -9,7 +9,7 @@ Diseñado en **WordPress**, con enfoque claro y directo para clientes que buscan
 
 | Inicio | Servicios | Contacto |
 |--------|-----------|----------|
-| ![Inicio](link-a-captura-inicio) | ![Servicios](link-a-captura-servicios) | ![Contacto](link-a-captura-contacto) |
+| ![Inicio](inicio.png) | ![Servicios](servicios.png) | ![Contacto](contacto.png) |
 
 > ✨ *Capturas reales del sitio online (ver enlace abajo).*
 
