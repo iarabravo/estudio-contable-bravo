@@ -11,8 +11,11 @@ Diseñado en **WordPress**, con enfoque claro y directo para clientes que buscan
 |--------|-----------|----------|
 | ![Inicio](inicio.png) | ![Servicios](servicios.png) | ![Contacto](contacto.png) |
 
-> ✨ *Capturas reales del sitio online (ver enlace abajo).*
-
+> ✨ *Capturas reales del sitio online.*
+![Inicio](inicio.png)
+![Servicios](servicios.png)
+![Contacto](contacto.png)
+![Inicio-Sesion](inicio_sesion.png)
 ---
 
 ## 🌐 Ver el sitio en línea
